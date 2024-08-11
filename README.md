@@ -15,9 +15,6 @@ I am passionate backend developer and security researcher and machine learning e
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=suman-09&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=suman-09&icon=0&color=0)](https://visitcount.itsvg.in)
 
